@@ -1,1 +1,120 @@
-# News
+
+
+```html
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>बस्ती: विज्ञापन के नाम पर अवैध वसूली करने वाला फर्जी रिपोर्टर धराया | स्थानीय समाचार</title>
+    <meta name="description" content="बस्ती जिले में फर्जी पत्रकार रक्षाराम पांडेय द्वारा विज्ञापन के नाम पर लोगों से धन उगाही का मामला सामने आया। पुलिस ने जांच शुरू कर दी है।">
+    <style>
+        body {
+            font-family: 'Noto Sans Devanagari', Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #c8102e;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.2em;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        .article-title {
+            color: #c8102e;
+            border-bottom: 2px solid #c8102e;
+            padding-bottom: 10px;
+        }
+        .meta {
+            color: #666;
+            font-size: 0.9em;
+            margin: 10px 0;
+        }
+        .content {
+            font-size: 1.1em;
+        }
+        .content p {
+            margin: 15px 0;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <h1>स्थानीय समाचार बस्ती</h1>
+        <p>बस्ती जिले की ताजा खबरें</p>
+    </header>
+
+    <nav>
+        <a href="#">होम</a>
+        <a href="#">जिला समाचार</a>
+        <a href="#">अपराध</a>
+        <a href="#">राजनीति</a>
+        <a href="#">संपर्क</a>
+    </nav>
+
+    <div class="container">
+        <h2 class="article-title">बस्ती: विज्ञापन के नाम पर अवैध वसूली करने वाला फर्जी रिपोर्टर धराया</h2>
+        
+        <div class="meta">
+            बस्ती | प्रकाशन तिथि: 23 फरवरी 2026 | श्रेणी: अपराध
+        </div>
+
+        <div class="content">
+            <p><strong>बस्ती।</strong> जिले के थाना क्षेत्र अंतर्गत बैरहना (बाराहपुर) के एक युवक द्वारा खुद को पत्रकार बताकर लोगों से विज्ञापन के नाम पर धन उगाही करने का मामला प्रकाश में आया है। आरोपी की पहचान रक्षाराम पांडेय, पुत्र राजेंद्र प्रसाद पांडेय के रूप में हुई है।</p>
+
+            <p>मिली जानकारी के अनुसार, आरोपी पिछले काफी समय से क्षेत्र के व्यापारियों और संभ्रांत व्यक्तियों को झांसे में लेकर विज्ञापन छपवाने के नाम पर मोटी रकम वसूल रहा था। जब विज्ञापनों का प्रकाशन नहीं हुआ, तो पीड़ितों ने मामले की तहकीकात की, जिससे धोखाधड़ी का खुलासा हुआ।</p>
+
+            <p>स्थानीय लोगों का आरोप है कि वह फर्जी आईडी कार्ड दिखाकर लोगों पर धौंस जमाता था। फिलहाल, पुलिस को इस संबंध में लिखित शिकायत दी गई है, जिसके आधार पर जांच शुरू कर दी गई है।</p>
+
+            <p>पुलिस सूत्रों के अनुसार, मामले की गहन जांच की जा रही है और जल्द ही आरोपी के खिलाफ उचित कार्रवाई की जाएगी। इस तरह की घटनाएं पत्रकारिता के नाम पर होने वाली धोखाधड़ी को उजागर करती हैं।</p>
+
+            <hr>
+
+            <p><em>अधिक जानकारी के लिए पुलिस थाना से संपर्क करें या स्थानीय समाचार स्रोतों पर नजर रखें।</em></p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 स्थानीय समाचार बस्ती | सभी अधिकार सुरक्षित | Disclaimer: यह एक नमूना न्यूज़ पेज है।</p>
+    </footer>
+
+</body>
+</html>
